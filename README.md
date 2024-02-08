@@ -1,4 +1,4 @@
-# readme-only-starter
+# MVC Lab 1
 
-This Glitch starter project is empty apart from this README.md file! Update this file after you add some contents.
+Creating a Node and Express app and adding routes and controllers
 
