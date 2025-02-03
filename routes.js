@@ -1,8 +1,9 @@
 'use strict';
 
 import express from 'express';
-const router = express.Router();
 import logger from "./utils/logger.js";
+
+const router = express.Router();
 
 import start from './controllers/start.js';
 import dashboard from './controllers/dashboard.js';

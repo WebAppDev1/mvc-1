@@ -1,5 +1,4 @@
 'use strict';
-
 import logger from "../utils/logger.js";
 
 const start = {
@@ -8,5 +7,6 @@ const start = {
     response.send('Welcome to the Playlist app!');   
   },
 };
+
 
 export default start;
